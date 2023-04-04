@@ -1,0 +1,1 @@
+>>> add_integer = import_('0-add_integer').add_integer
