@@ -1,3 +1,3 @@
-This is the folder containing the tasks of 0x01-python-if_else_loops_functions
+This is the folder containing the tasks of ALX python projects
 
-the codes are in python and c
+The codes are in python and c
