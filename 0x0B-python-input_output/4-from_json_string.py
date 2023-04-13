@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# 6-from_json_string.py
 """From JSON string to-object"""
 import json
 
